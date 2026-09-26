@@ -28,7 +28,6 @@ export default function SystemNavigation() {
   return (
     <nav 
       className="fixed top-0 left-0 w-full h-[40px] z-50 flex items-center justify-between px-6 border-b border-[var(--rule-color)] bg-[var(--paper-base)]"
-      style={{ mixBlendMode: 'var(--blend-mode)' as any }}
     >
       
       {/* Logo area */}

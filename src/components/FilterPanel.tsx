@@ -38,7 +38,7 @@ export default function FilterPanel() {
   }, 0);
 
   return (
-    <div className="fixed left-6 top-24 z-30 w-[180px] hidden md:flex md:flex-col" style={{ maxHeight: 'calc(100vh - 120px)' }}>
+    <div className="fixed left-0 top-[40px] pt-8 pl-6 pr-6 z-30 w-[200px] hidden md:flex md:flex-col bg-[var(--paper-base)] border-r border-[var(--rule-color)]" style={{ height: 'calc(100vh - 40px)' }}>
       <div className="flex-shrink-0">
         <div className="text-mono-sm tracking-system mb-1 text-[var(--ink-secondary)]">
           SYSTEM / FILTER {activeCount > 0 && <span className="text-[var(--accent-copper)] ml-1">[{activeCount}]</span>}
