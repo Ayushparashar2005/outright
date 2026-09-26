@@ -1,0 +1,23 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Watchlist Redirect">
+  <div class="max-w-4xl mx-auto p-6 mt-12 mb-24 text-center">
+    <div class="text-mono-sm tracking-system mb-4">SYSTEM / WATCHLIST</div>
+    <h1 class="text-hero mb-8">REDIRECTING</h1>
+    <p class="text-mono text-[var(--ink-secondary)] mb-8">
+      The Watchlist has been integrated into the new Collection System.
+    </p>
+    <a href="/collection?filter=WANTED" class="text-mono border-b border-[var(--ink-primary)] pb-1 hover:opacity-50">
+      [ CONTINUE TO COLLECTION ]
+    </a>
+  </div>
+  
+  <script is:inline>
+    // Auto-redirect after short delay
+    setTimeout(() => {
+      window.location.href = '/collection?filter=WANTED';
+    }, 1500);
+  </script>
+</BaseLayout>

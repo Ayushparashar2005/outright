@@ -1,0 +1,36 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ConfirmationReceipt from '../components/ConfirmationReceipt.tsx';
+---
+
+<BaseLayout title="Confirmation">
+  <div class="min-h-[calc(100vh-40px)] w-full flex flex-col items-center justify-center p-4 py-24">
+    
+    <ConfirmationReceipt client:only="react" />
+
+    <div class="mt-12 text-center">
+      <button onclick="window.print()" class="text-mono hover:opacity-50 mr-8">[ PRINT RECEIPT ]</button>
+      <a href="/" class="text-mono hover:opacity-50">[ RETURN TO SYSTEM ]</a>
+    </div>
+
+  </div>
+</BaseLayout>
+
+<style>
+  @media print {
+    body * {
+      visibility: hidden;
+    }
+    #receipt-container, #receipt-container * {
+      visibility: visible;
+    }
+    #receipt-container {
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 100%;
+      border: none;
+      box-shadow: none;
+    }
+  }
+</style>

@@ -1,0 +1,34 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import CollectionStats from '../components/CollectionStats.tsx';
+import CollectionGrid from '../components/CollectionGrid.tsx';
+import Cart from '../components/Cart.tsx';
+
+const filter = Astro.url.searchParams.get('filter') || 'ALL';
+---
+
+<BaseLayout title="Collection">
+  <div class="max-w-7xl mx-auto p-6 mt-12 mb-24">
+    <div class="text-mono-sm tracking-system mb-4">OUTRIGHT / COLLECTION</div>
+    <h1 class="text-hero mb-12">COLLECTION</h1>
+    
+    <div class="mb-12">
+      <CollectionStats client:load />
+    </div>
+
+    <!-- Custom client-side filter tab script -->
+    <div class="flex flex-wrap gap-4 mb-8 text-mono-sm border-b border-[var(--ink-faded)] pb-4 collection-tabs">
+      <a href="?filter=ALL" class={`hover:text-[var(--accent-copper)] transition-colors ${filter === 'ALL' ? 'text-[var(--accent-copper)]' : ''}`}>[ ALL ]</a>
+      <a href="?filter=OWNED" class={`hover:text-[var(--accent-copper)] transition-colors ${filter === 'OWNED' ? 'text-[var(--accent-copper)]' : ''}`}>[ OWNED ]</a>
+      <a href="?filter=WANTED" class={`hover:text-[var(--accent-copper)] transition-colors ${filter === 'WANTED' ? 'text-[var(--accent-copper)]' : ''}`}>[ WANTED ]</a>
+      <a href="?filter=PREVIOUSLY_OWNED" class={`hover:text-[var(--accent-copper)] transition-colors ${filter === 'PREVIOUSLY_OWNED' ? 'text-[var(--accent-copper)]' : ''}`}>[ PREVIOUSLY OWNED ]</a>
+      <a href="?filter=FAVORITE" class={`hover:text-[var(--accent-copper)] transition-colors ${filter === 'FAVORITE' ? 'text-[var(--accent-copper)]' : ''}`}>[ FAVORITE ]</a>
+      <a href="?filter=SEEN" class={`hover:text-[var(--accent-copper)] transition-colors ${filter === 'SEEN' ? 'text-[var(--accent-copper)]' : ''}`}>[ SEEN ]</a>
+      <a href="?filter=RESEARCHED" class={`hover:text-[var(--accent-copper)] transition-colors ${filter === 'RESEARCHED' ? 'text-[var(--accent-copper)]' : ''}`}>[ RESEARCHED ]</a>
+    </div>
+
+    <CollectionGrid filter={filter as any} client:load />
+  </div>
+
+  <Cart client:load />
+</BaseLayout>

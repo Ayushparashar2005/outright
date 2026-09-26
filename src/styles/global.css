@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap');
+@import './tokens.css';
+@import './typography.css';
+
+@import "tailwindcss";
+
+html, body {
+  background-color: var(--paper-base);
+  color: var(--ink-primary);
+}
+
+@layer utilities {
+  .receipt-rule {
+    height: var(--rule-weight);
+    background-color: var(--rule-color);
+    width: 100%;
+    margin: 1rem 0;
+  }
+
+  .dotted-leader {
+    flex-grow: 1;
+    border-bottom: 1px dotted var(--ink-faded);
+    margin: 0 0.5rem;
+    display: block;
+    align-self: flex-end;
+    margin-bottom: 3px;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 4px;
+  }
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    background-color: var(--ink-ghost);
+    border-radius: 4px;
+  }
+  .custom-scrollbar:hover::-webkit-scrollbar-thumb {
+    background-color: var(--ink-faded);
+  }
+
+  .text-hero {
+    font-size: var(--text-hero);
+    line-height: 0.9;
+    letter-spacing: -0.02em;
+  }
+
+  .text-h1 {
+    font-size: var(--text-h1);
+  }
+
+  .text-h2 {
+    font-size: var(--text-h2);
+  }
+
+  .text-mono {
+    font-family: var(--font-mono);
+    font-size: var(--text-mono);
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+
+  .text-mono-sm {
+    font-family: var(--font-mono);
+    font-size: var(--text-mono-sm);
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+
+  .tracking-system {
+    letter-spacing: 0.2em;
+  }
+}
+
+/* Reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Custom scrollbar for receipt feel */
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--paper-base);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--ink-faded);
+}
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(5px); }
+  to { opacity: 1; transform: translateY(0); }
+}

@@ -1,0 +1,57 @@
+---
+import '../styles/global.css';
+import PaperBackground from '../components/PaperBackground.astro';
+import SystemNavigation from '../components/SystemNavigation.tsx';
+import SystemMessage from '../components/SystemMessage.tsx';
+import BootSequence from '../components/BootSequence.tsx';
+import SearchModal from '../components/SearchModal.tsx';
+import ProfileSetupModal from '../components/ProfileSetupModal.tsx';
+
+interface Props {
+  title: string;
+}
+
+const { title } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title} | OUTRIGHT / SYSTEM</title>
+    <!-- Preconnect to Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;700&family=IBM+Plex+Mono:wght@400;700&display=swap" rel="stylesheet" />
+    
+    <!-- SEO & Meta -->
+    <meta name="description" content="OUTRIGHT / SYSTEM — Digital Brutalism and Spatial Commerce." />
+    <meta property="og:title" content={`${title} | OUTRIGHT / SYSTEM`} />
+    <meta property="og:description" content="OUTRIGHT / SYSTEM — Digital Brutalism and Spatial Commerce." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={Astro.url} />
+    <link rel="canonical" href={Astro.url} />
+    <script is:inline>
+      const theme = localStorage.getItem('outright-theme');
+      if (theme) {
+        document.documentElement.setAttribute('data-theme', theme);
+      } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.documentElement.setAttribute('data-theme', 'dark');
+      }
+    </script>
+  </head>
+  <body>
+    <PaperBackground />
+    <SystemNavigation client:load />
+    <main class="w-full min-h-screen pt-[40px] relative z-10">
+      <slot />
+    </main>
+    <SearchModal client:load />
+    <SystemMessage client:load />
+    <BootSequence client:load />
+    <ProfileSetupModal client:load />
+  </body>
+</html>

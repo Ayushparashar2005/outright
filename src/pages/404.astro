@@ -1,0 +1,19 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Not Found">
+  <div class="min-h-[calc(100vh-40px)] w-full flex flex-col items-center justify-center p-4">
+    <div class="text-center text-mono">
+      <div class="text-mono-sm tracking-system mb-4 text-[var(--ink-faded)]">SYSTEM / ERROR</div>
+      <h1 class="text-h2 mb-8">SIGNAL LOST / 404</h1>
+      <div class="mb-12">
+        <div class="receipt-rule my-4 max-w-sm mx-auto"></div>
+        <p class="mb-4">THE REQUESTED ROUTE COULD NOT BE FOUND IN THE SYSTEM ARCHIVE.</p>
+        <p class="text-[var(--ink-faded)]">PLEASE VERIFY THE COORDINATES AND TRY AGAIN.</p>
+        <div class="receipt-rule my-4 max-w-sm mx-auto"></div>
+      </div>
+      <a href="/" class="hover:opacity-50 border-b border-[var(--ink-primary)] pb-1">[ RETURN TO SYSTEM ]</a>
+    </div>
+  </div>
+</BaseLayout>

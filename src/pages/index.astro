@@ -1,0 +1,37 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SpatialCatalog from '../components/SpatialCatalog.tsx';
+import FilterPanel from '../components/FilterPanel.tsx';
+import ProductDetail from '../components/ProductDetail.tsx';
+import Cart from '../components/Cart.tsx';
+import SystemMonitor from '../components/SystemMonitor.tsx';
+---
+
+<BaseLayout title="Catalog">
+  
+
+
+  <FilterPanel client:load />
+  
+  <div class="absolute inset-0 hidden md:block" style="top: 0; height: calc(100vh - 40px);">
+    <div id="canvas-loader" class="absolute inset-0 flex items-center justify-center bg-[var(--paper-base)] z-0">
+      <div class="text-mono tracking-system animate-pulse">LOADING INVENTORY...</div>
+    </div>
+    <SpatialCatalog client:only="react" />
+  </div>
+
+  <div class="md:hidden pt-24 px-6 pb-24 relative z-10 space-y-8">
+    <div class="text-mono-sm tracking-system mb-8">MOBILE VIEW / SPATIAL DISABLED</div>
+    <!-- We just reuse the archive list layout conceptually for mobile, but keep it simple here -->
+    <div class="text-center text-mono">
+      PLEASE USE DESKTOP FOR FULL 3D SPATIAL EXPERIENCE.
+      <br/><br/>
+      <a href="/archive" class="hover:opacity-50 border-b border-[var(--ink-primary)] pb-1">[ GO TO ARCHIVE VIEW ]</a>
+    </div>
+  </div>
+
+  <ProductDetail client:load />
+  <Cart client:load />
+  <SystemMonitor client:load />
+
+</BaseLayout>
