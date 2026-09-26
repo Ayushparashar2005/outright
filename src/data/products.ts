@@ -95,6 +95,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0001",
     "productUrl": "https://www.goat.com/sneakers/travis-scott-x-playstation-x-dunk-low-travis-ps-dunk"
+  ,
+    "lore": "Created for the launch of the PS5, this ultra-rare promotional Dunk features Travis Scott's signature reverse Swoosh and PlayStation branding. Only five pairs were given away to the public via a raffle.",
+    "culturalTags": ["GAMING","COLLABORATION","TRAVIS SCOTT","PROMO SAMPLE","ULTRA RARE"]
   },
   {
     "id": "002",
@@ -130,6 +133,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0002",
     "productUrl": "https://www.goat.com/sneakers/the-powerpuff-girls-x-dunk-low-pro-sb-qs-ps-bubbles-fz8833-400"
+  ,
+    "lore": "Celebrating the beloved Cartoon Network series, this Bubbles-themed SB Dunk features a textured yellow upper, blue accents, and lenticular eyes on the heel tab.",
+    "culturalTags": ["SKATEBOARDING","CARTOON NETWORK","POP CULTURE","COLLABORATION","NIKE SB"]
   },
   {
     "id": "003",
@@ -200,6 +206,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0004",
     "productUrl": "https://www.goat.com/sneakers/undefeated-x-dunk-low-dunk-vs-af1-do9329-001"
+  ,
+    "lore": "Part of the 'Dunk vs AF1' pack, this collaboration with UNDEFEATED flips classic Air Force 1 colorways onto the Dunk silhouette, utilizing premium materials and faux snakeskin.",
+    "culturalTags": ["LIFESTYLE","UNDEFEATED","COLLABORATION","HYBRID DESIGN"]
   },
   {
     "id": "005",
@@ -235,6 +244,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0005",
     "productUrl": "https://www.goat.com/sneakers/dunk-low-grey-fog-dd1391-103"
+  ,
+    "lore": "A clean and essential two-tone colorway. The 'Grey Fog' offers a more subtle, muted alternative to the ubiquitous Panda Dunk, becoming a massive staple in streetwear.",
+    "culturalTags": ["LIFESTYLE","EVERYDAY STAPLE","MINIMALIST","GR"]
   },
   {
     "id": "006",
@@ -270,6 +282,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0006",
     "productUrl": "https://www.goat.com/sneakers/nike-dunk-low-ltd-wizard-ib2267-001"
+  ,
+    "lore": "A nod to the Japanese exclusive Co.Jp releases, this 'Wizard' colorway brings back a retro aesthetic with rich textures and striking purple hues.",
+    "culturalTags": ["LIFESTYLE","CO.JP INFLUENCE","RETRO","LIMITED"]
   },
   {
     "id": "007",
@@ -305,6 +320,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0007",
     "productUrl": "https://www.goat.com/sneakers/stranger-things-x-dunk-low-phantom-ih6766-001"
+  ,
+    "lore": "A spooky, retro-themed Dunk inspired by the Upside Down of Stranger Things. Features distressed materials and hidden details beneath the upper.",
+    "culturalTags": ["LIFESTYLE","STRANGER THINGS","POP CULTURE","TV SHOW","DISTRESSED"]
   },
   {
     "id": "008",
@@ -340,6 +358,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0008",
     "productUrl": "https://www.goat.com/sneakers/dunk-low-se-triple-black-ib6651-001"
+  ,
+    "lore": "A stealthy, all-black iteration of the classic Dunk Low. Constructed with mixed materials for durability and a monochromatic aesthetic.",
+    "culturalTags": ["LIFESTYLE","TRIPLE BLACK","WORKWEAR","UTILITY"]
   },
   {
     "id": "009",
@@ -410,6 +431,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0010",
     "productUrl": "https://www.goat.com/sneakers/cactus-plant-flea-market-x-dunk-low-swamp-sponge-pack-psychic-purple-ih5094-500"
+  ,
+    "lore": "A bizarre, textured creation from Cynthia Lu's CPFM, featuring a Grinch-like shaggy upper and mismatched sole units.",
+    "culturalTags": ["LIFESTYLE","CPFM","AVANT-GARDE","COLLABORATION"]
   },
   {
     "id": "011",
@@ -445,6 +469,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0011",
     "productUrl": "https://www.goat.com/sneakers/nike-dunk-low-frankenstein-hv4452-300"
+  ,
+    "lore": "Released as part of a Halloween collection, this shoe features monster-inspired green hues, metallic silver Swooshes resembling neck bolts, and stitch details.",
+    "culturalTags": ["LIFESTYLE","HALLOWEEN","HOLIDAY","THEMED"]
   },
   {
     "id": "012",
@@ -515,6 +542,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0013",
     "productUrl": "https://www.goat.com/sneakers/league-of-legends-x-dunk-low-black-do2327-011"
+  ,
+    "lore": "A gamer-focused release celebrating the League of Legends World Championship, featuring iridescent details and LPL branding.",
+    "culturalTags": ["LIFESTYLE","ESPORTS","LEAGUE OF LEGENDS","GAMING","COLLABORATION"]
   },
   {
     "id": "014",
@@ -550,6 +580,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0014",
     "productUrl": "https://www.goat.com/sneakers/dunk-low-premium-setsubun-dq5009-268"
+  ,
+    "lore": "Inspired by the Japanese festival of Setsubun (bean-throwing festival), featuring cracked leather, demon motifs on the heel, and roasted bean colors.",
+    "culturalTags": ["LIFESTYLE","JAPANESE CULTURE","FESTIVAL","PREMIUM"]
   },
   {
     "id": "015",
@@ -585,6 +618,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0015",
     "productUrl": "https://www.goat.com/sneakers/futura-laboratories-x-dunk-low-sb-bleached-aqua-hf6061-400"
+  ,
+    "lore": "Legendary graffiti artist Futura brings his signature abstract art style to the SB Dunk, featuring custom artwork panels and translucent soles.",
+    "culturalTags": ["SKATEBOARDING","FUTURA","STREET ART","GRAFFITI","COLLABORATION"]
   },
   {
     "id": "016",
@@ -620,6 +656,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0016",
     "productUrl": "https://www.goat.com/sneakers/dunk-low-athletic-department-deep-jungle-fq8080-133"
+  ,
+    "lore": "Part of the vintage-inspired Athletic Department collection, featuring aged midsoles and collegiate deep green accents.",
+    "culturalTags": ["LIFESTYLE","ATHLETIC DEPARTMENT","VINTAGE AESTHETIC","COLLEGIATE"]
   },
   {
     "id": "017",
@@ -655,6 +694,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0017",
     "productUrl": "https://www.goat.com/sneakers/dunk-low-midnight-navy-smoke-grey-fd9749-400"
+  ,
+    "lore": "A versatile lifestyle colorway blending dark navy overlays with smoke grey bases, perfect for everyday rotation.",
+    "culturalTags": ["LIFESTYLE","EVERYDAY STAPLE","GR"]
   },
   {
     "id": "018",
@@ -690,6 +732,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0018",
     "productUrl": "https://www.goat.com/sneakers/dunk-low-gs-year-of-the-dragon-fz5528-101"
+  ,
+    "lore": "A Lunar New Year special edition featuring dragon-scale textures and festive red accents to celebrate the zodiac year.",
+    "culturalTags": ["LIFESTYLE","LUNAR NEW YEAR","ZODIAC","HOLIDAY"]
   },
   {
     "id": "019",
@@ -725,6 +770,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0019",
     "productUrl": "https://www.goat.com/sneakers/dunk-low-silver-surfer-2024-hf0391-001"
+  ,
+    "lore": "A retro of the classic 2004 release, bringing back the metallic silver mesh and blue Swoosh that made the original a cult classic.",
+    "culturalTags": ["LIFESTYLE","2000s ARCHIVE","METALLIC","RETRO"]
   },
   {
     "id": "020",
@@ -760,6 +808,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0020",
     "productUrl": "https://www.goat.com/sneakers/dunk-low-year-of-the-snake-hv5980-231"
+  ,
+    "lore": "Commemorating the Year of the Snake with faux snakeskin panels and premium earth-toned leather overlays.",
+    "culturalTags": ["LIFESTYLE","LUNAR NEW YEAR","SNAKESKIN","PREMIUM"]
   },
   {
     "id": "021",
@@ -795,6 +846,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0021",
     "productUrl": "https://www.goat.com/sneakers/dunk-low-reverse-panda-dj6188-101"
+  ,
+    "lore": "A flipped version of the ultra-popular Panda Dunk, using white on the overlays and black on the underlays for a fresh twist.",
+    "culturalTags": ["LIFESTYLE","COLOR BLOCKING","EVERYDAY STAPLE","GR"]
   },
   {
     "id": "022",
@@ -830,6 +884,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0022",
     "productUrl": "https://www.goat.com/sneakers/off-white-x-rubber-dunk-td-green-strike-ow-dunk-td-grn"
+  ,
+    "lore": "Virgil Abloh's amalgamation of the P-6000 and the Dunk, featuring rubberized accents and a vibrant green strike outline.",
+    "culturalTags": ["LIFESTYLE","VIRGIL ABLOH","OFF-WHITE","HYBRID DESIGN","DECONSTRUCTED"]
   },
   {
     "id": "023",
@@ -865,6 +922,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0023",
     "productUrl": "https://www.goat.com/sneakers/dunk-low-next-nature-cacao-wow-hf4292-200"
+  ,
+    "lore": "Part of Nike's Move to Zero initiative, this eco-friendly Dunk is made with at least 20% recycled materials by weight.",
+    "culturalTags": ["LIFESTYLE","SUSTAINABILITY","MOVE TO ZERO","ECO-FRIENDLY"]
   },
   {
     "id": "024",
@@ -900,6 +960,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0024",
     "productUrl": "https://www.goat.com/sneakers/the-powerpuff-girls-x-dunk-low-pro-sb-qs-buttercup-fz8319-300"
+  ,
+    "lore": "Representing the toughest Powerpuff Girl, this SB features a striking green and black colorway with Buttercup's intense glare on the heel.",
+    "culturalTags": ["SKATEBOARDING","CARTOON NETWORK","POP CULTURE","COLLABORATION","NIKE SB"]
   },
   {
     "id": "025",
@@ -935,6 +998,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0025",
     "productUrl": "https://www.goat.com/sneakers/dunk-low-what-the-phk-university-of-oregon-pe-hv1470-001"
+  ,
+    "lore": "A highly exclusive Player Exclusive made for the Oregon Ducks, mashing up various eras of the university's uniform history.",
+    "culturalTags": ["LIFESTYLE","OREGON DUCKS","PE","COLLEGIATE","ULTRA RARE"]
   },
   {
     "id": "026",
@@ -970,6 +1036,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0026",
     "productUrl": "https://www.goat.com/sneakers/cactus-plant-flea-market-x-dunk-low-swamp-sponge-pack-photo-blue-ih5094-400"
+  ,
+    "lore": "Another wild, mossy release from CPFM, featuring long-hair suede and mismatched details in a striking blue hue.",
+    "culturalTags": ["LIFESTYLE","CPFM","AVANT-GARDE","COLLABORATION","EXPERIMENTAL"]
   },
   {
     "id": "027",
@@ -1005,6 +1074,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0027",
     "productUrl": "https://www.goat.com/sneakers/verdy-x-dunk-low-sb-visty-fn6040-400"
+  ,
+    "lore": "Designed by Girls Don't Cry founder Verdy, inspired by his colorful, fluffy monster character 'Visty', featuring pastel hues and faux fur.",
+    "culturalTags": ["SKATEBOARDING","VERDY","STREETWEAR","JAPANESE DESIGNER","COLLABORATION"]
   },
   {
     "id": "028",
@@ -1040,6 +1112,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0028",
     "productUrl": "https://www.goat.com/sneakers/dunk-low-kentucky-2025-hf5441-112"
+  ,
+    "lore": "A re-release of the original 1985 'Be True to Your School' colorway honoring the University of Kentucky Wildcats.",
+    "culturalTags": ["LIFESTYLE","BE TRUE TO YOUR SCHOOL","COLLEGIATE","OG COLORWAY","BASKETBALL ORIGINS"]
   },
   {
     "id": "029",
@@ -1075,6 +1150,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0029",
     "productUrl": "https://www.goat.com/sneakers/union-la-x-dunk-low-dj9649-400"
+  ,
+    "lore": "Inspired by early 2000s Japan-exclusive releases, this Union collaboration features a tear-away ripstop upper revealing premium leather underneath.",
+    "culturalTags": ["LIFESTYLE","UNION LA","PASSPORT PACK","TEAR-AWAY","COLLABORATION"]
   },
   {
     "id": "030",
@@ -1110,6 +1188,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0030",
     "productUrl": "https://www.goat.com/sneakers/dunk-low-usa-dd1391-400"
+  ,
+    "lore": "A clean, collegiate-style colorway featuring a deep Valerian Blue over a white base with subtle red accents on the branding.",
+    "culturalTags": ["LIFESTYLE","COLLEGIATE","GR","TWO-TONE"]
   },
   {
     "id": "031",
@@ -1145,6 +1226,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0031",
     "productUrl": "https://www.goat.com/sneakers/wmns-dunk-low-cacao-wow-dd1503-124"
+  ,
+    "lore": "One of the most popular women's exclusive colorways of the 2020s, featuring rich chocolate brown overlays that pair perfectly with neutral outfits.",
+    "culturalTags": ["LIFESTYLE","WOMEN'S EXCLUSIVE","EARTH TONES","2020s TREND"]
   },
   {
     "id": "032",
@@ -1180,6 +1264,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0032",
     "productUrl": "https://www.goat.com/sneakers/limosine-skateboards-x-dunk-low-sb-basketball-leather-hj4131-200"
+  ,
+    "lore": "A core skate shop collaboration with Limosine, utilizing rugged materials and subtle football-inspired textures.",
+    "culturalTags": ["SKATEBOARDING","LIMOSINE","CORE SKATE","COLLABORATION"]
   },
   {
     "id": "033",
@@ -1215,6 +1302,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0033",
     "productUrl": "https://www.goat.com/sneakers/supreme-x-dunk-low-sb-ocean-fog-hq8487-400"
+  ,
+    "lore": "Continuing the long-standing partnership, this Supreme SB Dunk features premium materials and the iconic world famous branding.",
+    "culturalTags": ["SKATEBOARDING","SUPREME","STREETWEAR","HYPE","COLLABORATION"]
   },
   {
     "id": "034",
@@ -1250,6 +1340,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0034",
     "productUrl": "https://www.goat.com/sneakers/ebay-x-dunk-low-sb-sandy-bodecker-fd8777-100"
+  ,
+    "lore": "A tribute to the late Sandy Bodecker, the godfather of Nike SB. This shoe recreates the legendary cut-up eBay Charity Dunk.",
+    "culturalTags": ["SKATEBOARDING","TRIBUTE","SANDY BODECKER","EBAY DUNK","CHARITY"]
   },
   {
     "id": "035",
@@ -1285,6 +1378,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0035",
     "productUrl": "https://www.goat.com/sneakers/jarritos-x-dunk-low-sb-fd0860-001"
+  ,
+    "lore": "A playful crossover with the beloved Mexican soda brand, featuring tear-away canvas panels that reveal a bright orange suede underneath.",
+    "culturalTags": ["SKATEBOARDING","JARRITOS","BEVERAGE","TEAR-AWAY","COLLABORATION"]
   },
   {
     "id": "036",
@@ -1320,6 +1416,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0036",
     "productUrl": "https://www.goat.com/sneakers/undefeated-x-air-jordan-4-retro-ib1519-200"
+  ,
+    "lore": "A rumored retro of the legendary 2005 UNDFTD Jordan 4, the first-ever exclusive sneaker collaboration for the Jordan Brand, originally limited to 72 pairs.",
+    "culturalTags": ["BASKETBALL","UNDEFEATED","STREETWEAR","HOLY GRAIL","MILITARY INSPIRED"]
   },
   {
     "id": "037",
@@ -1355,6 +1454,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0037",
     "productUrl": "https://www.goat.com/sneakers/air-jordan-4-retro-rare-air-fv5029-003"
+  ,
+    "lore": "Features an unreleased 'Rare Air' sample design concept, highlighted by velcro tongue patches and distinct white lettering.",
+    "culturalTags": ["BASKETBALL","RARE AIR","UNRELEASED CONCEPT","PROTOTYPE"]
   },
   {
     "id": "038",
@@ -1390,6 +1492,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0038",
     "productUrl": "https://www.goat.com/sneakers/wmns-air-jordan-4-retro-tex-worn-blue-denim-ib6716-100"
+  ,
+    "lore": "A women's exclusive utilizing heavily washed and distressed denim materials across the iconic Jordan 4 upper.",
+    "culturalTags": ["BASKETBALL","WOMEN'S EXCLUSIVE","DENIM","MATERIAL FOCUS"]
   },
   {
     "id": "039",
@@ -1425,6 +1530,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0039",
     "productUrl": "https://www.goat.com/sneakers/air-jordan-4-retro-black-cat-2025-fv5029-010"
+  ,
+    "lore": "A highly anticipated re-release of the beloved all-black nubuck colorway, originally inspired by Michael Jordan's predatory nickname.",
+    "culturalTags": ["BASKETBALL","BLACK CAT","MONOCHROMATIC","FAN FAVORITE"]
   },
   {
     "id": "040",
@@ -1460,6 +1568,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0040",
     "productUrl": "https://www.goat.com/sneakers/air-jordan-4-retro-og-white-cement-2025-fv5029-100"
+  ,
+    "lore": "The return of a masterpiece. Worn by MJ during the 1989 season and famous for its appearance in Do the Right Thing, complete with Nike Air branding.",
+    "culturalTags": ["BASKETBALL","OG COLORWAY","DO THE RIGHT THING","TINKER HATFIELD","POP CULTURE"]
   },
   {
     "id": "041",
@@ -1495,6 +1606,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0041",
     "productUrl": "https://www.goat.com/sneakers/nike-sb-x-air-jordan-4-retro-sp-navy-dr5415-100"
+  ,
+    "lore": "Following the massive success of the Pine Green edition, this skate-ready Jordan 4 features a reshaped toe box and flexible plastic components.",
+    "culturalTags": ["SKATEBOARDING","NIKE SB","CROSSOVER","TOOLING UPDATE"]
   },
   {
     "id": "042",
@@ -1530,6 +1644,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0042",
     "productUrl": "https://www.goat.com/sneakers/air-jordan-4-retro-cave-stone-fq8138-200"
+  ,
+    "lore": "An earth-toned release that continues the trend of neutral, highly wearable Jordan 4 colorways.",
+    "culturalTags": ["BASKETBALL","EARTH TONES","LIFESTYLE","GR"]
   },
   {
     "id": "043",
@@ -1565,6 +1682,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0043",
     "productUrl": "https://www.goat.com/sneakers/air-jordan-4-retro-og-sp-firewood-orange-hf4340-800"
+  ,
+    "lore": "BMX star Nigel Sylvester's take on the Jordan 4, featuring heavily distressed details mimicking the scuffs from riding a bike.",
+    "culturalTags": ["BASKETBALL","NIGEL SYLVESTER","BMX","DISTRESSED","COLLABORATION"]
   },
   {
     "id": "044",
@@ -1600,6 +1720,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0044",
     "productUrl": "https://www.goat.com/sneakers/air-jordan-4-retro-flight-club-im4002-100"
+  ,
+    "lore": "A mystery entry in the archive, representing a highly guarded release date for an upcoming Jordan silhouette.",
+    "culturalTags": ["BASKETBALL","MYSTERY RELEASE","UNANNOUNCED"]
   },
   {
     "id": "045",
@@ -1635,6 +1758,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0045",
     "productUrl": "https://www.goat.com/sneakers/air-jordan-4-retro-white-thunder-fq8138-001"
+  ,
+    "lore": "Reversing the classic Thunder color block, this 2024 release swaps yellow for crisp white against a black nubuck upper.",
+    "culturalTags": ["BASKETBALL","THUNDER SERIES","COLOR BLOCKING","GR"]
   },
   {
     "id": "046",
@@ -1670,6 +1796,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0046",
     "productUrl": "https://www.goat.com/sneakers/air-jordan-4-retro-bred-reimagined-fv5029-006"
+  ,
+    "lore": "Replacing the traditional nubuck of the 1989 classic with premium tumbled leather, reimagining the shoe MJ wore for 'The Shot'.",
+    "culturalTags": ["BASKETBALL","REIMAGINED SERIES","OG COLORWAY","MATERIAL SWAP","THE SHOT"]
   },
   {
     "id": "047",
@@ -1705,6 +1834,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0047",
     "productUrl": "https://www.goat.com/sneakers/air-jordan-4-retro-military-blue-2024-fv5029-141"
+  ,
+    "lore": "The long-awaited return of the 1989 OG colorway, featuring the correct off-white upper and original Nike Air branding on the heel.",
+    "culturalTags": ["BASKETBALL","OG COLORWAY","NIKE AIR","TINKER HATFIELD"]
   },
   {
     "id": "048",
@@ -1740,6 +1872,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0048",
     "productUrl": "https://www.goat.com/sneakers/air-jordan-jordan-4-retro-gs-black-cat-2025-ib4171-010"
+  ,
+    "lore": "The grade-school sizing of the stealthy all-black classic, ensuring the next generation can wear the 'Black Cat'.",
+    "culturalTags": ["BASKETBALL","BLACK CAT","YOUTH","MONOCHROMATIC"]
   },
   {
     "id": "049",
@@ -1775,6 +1910,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0049",
     "productUrl": "https://www.goat.com/sneakers/a-ma-maniere-x-air-jordan-4-retro-dark-mocha-if3102-200"
+  ,
+    "lore": "James Whitner's boutique delivers another luxurious collaboration, featuring premium materials, quilted linings, and subtle storytelling.",
+    "culturalTags": ["BASKETBALL","A MA MANIERE","LUXURY","STORYTELLING","COLLABORATION"]
   },
   {
     "id": "050",
@@ -1810,6 +1948,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0050",
     "productUrl": "https://www.goat.com/sneakers/air-jordan-4-retro-red-thunder-ct8527-016"
+  ,
+    "lore": "A spin on the 2006 'Thunder' colorway, replacing the tour yellow accents with vibrant crimson red.",
+    "culturalTags": ["BASKETBALL","THUNDER SERIES","COLOR BLOCKING","GR"]
   },
   {
     "id": "051",
@@ -1845,6 +1986,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0051",
     "productUrl": "https://www.goat.com/sneakers/nike-sb-x-air-jordan-4-retro-pine-green-dr5415-103"
+  ,
+    "lore": "A monumental 2023 release that retooled the Jordan 4 for skateboarding, instantly becoming one of the most celebrated sneakers of the decade.",
+    "culturalTags": ["SKATEBOARDING","NIKE SB","SNEAKER OF THE YEAR","CROSSOVER","COLLABORATION"]
   },
   {
     "id": "052",
@@ -1880,6 +2024,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0052",
     "productUrl": "https://www.goat.com/sneakers/air-jordan-4-retro-se-smoke-grey-fq7928-001"
+  ,
+    "lore": "Inspired by the 2024 Paris Olympics, this tonal grey release mimics the cobblestone streets of the French capital.",
+    "culturalTags": ["BASKETBALL","PARIS OLYMPICS","TONAL","SPECIAL EDITION"]
   },
   {
     "id": "053",
@@ -1915,6 +2062,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0053",
     "productUrl": "https://www.goat.com/sneakers/air-jordan-4-retro-bred-2019-308497-060"
+  ,
+    "lore": "The definitive retro of the shoe Michael Jordan wore when he hit 'The Shot' over Craig Ehlo in the 1989 Playoffs.",
+    "culturalTags": ["BASKETBALL","OG COLORWAY","THE SHOT","TINKER HATFIELD","NIKE AIR"]
   },
   {
     "id": "054",
@@ -1950,6 +2100,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0054",
     "productUrl": "https://www.goat.com/sneakers/a-ma-maniere-x-wmns-air-jordan-4-retro-fossil-stone-fz4810-200"
+  ,
+    "lore": "Part of AMM's six-shoe anniversary collection, utilizing premium muted tones and luxurious interior details.",
+    "culturalTags": ["BASKETBALL","A MA MANIERE","WOMEN'S EXCLUSIVE","ANNIVERSARY","LUXURY"]
   },
   {
     "id": "055",
@@ -1985,6 +2138,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0055",
     "productUrl": "https://www.goat.com/sneakers/air-jordan-4-retro-fear-2024-fq8138-002"
+  ,
+    "lore": "A retro of the 2013 classic from the 'Fear Pack', inspired by MJ's quote: 'I am scared of what I won't become.'",
+    "culturalTags": ["BASKETBALL","FEAR PACK","STORYTELLING","RETRO"]
   },
   {
     "id": "056",
@@ -2020,6 +2176,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0056",
     "productUrl": "https://www.goat.com/sneakers/air-jordan-4-retro-og-fire-red-2020-dc7770-160"
+  ,
+    "lore": "A flawless recreation of the 1989 original, complete with Nike Air on the heel and the vibrant Fire Red accents.",
+    "culturalTags": ["BASKETBALL","OG COLORWAY","CHICAGO","TINKER HATFIELD"]
   },
   {
     "id": "057",
@@ -2055,6 +2214,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0057",
     "productUrl": "https://www.goat.com/sneakers/wmns-air-jordan-4-retro-orchid-aq9129-501"
+  ,
+    "lore": "A vibrant pink suede women's exclusive, featuring speckled grey wings that contrast beautifully with the bright upper.",
+    "culturalTags": ["BASKETBALL","WOMEN'S EXCLUSIVE","VIBRANT","SUEDE"]
   },
   {
     "id": "058",
@@ -2090,6 +2252,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0058",
     "productUrl": "https://www.goat.com/sneakers/air-jordan-4-retro-thunder-2023-dh6927-017"
+  ,
+    "lore": "Bringing back the 2006 LS (Lifestyle) release, known for its striking black and yellow color-blocking.",
+    "culturalTags": ["BASKETBALL","THUNDER SERIES","LIFESTYLE","RETRO"]
   },
   {
     "id": "059",
@@ -2125,6 +2290,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0059",
     "productUrl": "https://www.goat.com/sneakers/air-jordan-4-retro-black-canvas-dh7138-006"
+  ,
+    "lore": "Swapping traditional nubuck for a durable canvas upper, offering a rugged, workwear-inspired take on the silhouette.",
+    "culturalTags": ["BASKETBALL","CANVAS","WORKWEAR","MATERIAL FOCUS"]
   },
   {
     "id": "060",
@@ -2160,6 +2328,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0060",
     "productUrl": "https://www.goat.com/sneakers/off-white-x-wmns-air-jordan-4-sp-sail-cv9388-100"
+  ,
+    "lore": "Virgil Abloh's deconstructed masterpiece. Originally debuted at his 'Figures of Speech' exhibit, it became one of the most coveted women's sneakers ever.",
+    "culturalTags": ["BASKETBALL","VIRGIL ABLOH","OFF-WHITE","WOMEN'S EXCLUSIVE","DECONSTRUCTED"]
   },
   {
     "id": "061",
@@ -2195,6 +2366,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0061",
     "productUrl": "https://www.goat.com/sneakers/air-jordan-4-retro-toro-bravo-2026-fq8138-600"
+  ,
+    "lore": "A return of the bold 2013 colorway, featuring a vibrant red suede upper that completely flips the script on Chicago colors.",
+    "culturalTags": ["BASKETBALL","TORO BRAVO","SUEDE","VIBRANT","RETRO"]
   },
   {
     "id": "062",
@@ -2230,6 +2404,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0062",
     "productUrl": "https://www.goat.com/sneakers/air-jordan-4-retro-university-blue-ct8527-400"
+  ,
+    "lore": "Paying homage to Michael Jordan's UNC days, this release utilizes premium blue suede and classic cement speckling.",
+    "culturalTags": ["BASKETBALL","UNC","COLLEGIATE","MICHAEL JORDAN","SUEDE"]
   },
   {
     "id": "063",
@@ -2265,6 +2442,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0063",
     "productUrl": "https://www.goat.com/sneakers/air-jordan-4-retro-military-black-dh6927-111"
+  ,
+    "lore": "A massive mainstream hit from 2022. It uses the exact color-blocking of the OG Military Blue but replaces the blue with black.",
+    "culturalTags": ["BASKETBALL","COLOR BLOCKING","LIFESTYLE","MAINSTREAM HIT"]
   },
   {
     "id": "064",
@@ -2300,6 +2480,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0064",
     "productUrl": "https://www.goat.com/sneakers/air-jordan-4-retro-lightning-2021-ct8527-700"
+  ,
+    "lore": "The first-ever retro of the legendary 2006 online-exclusive, featuring a bright Tour Yellow nubuck upper.",
+    "culturalTags": ["BASKETBALL","LIGHTNING","ONLINE EXCLUSIVE","RETRO"]
   },
   {
     "id": "065",
@@ -2335,6 +2518,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0065",
     "productUrl": "https://www.goat.com/sneakers/air-jordan-4-retro-red-cement-dh6927-161"
+  ,
+    "lore": "A clever twist on the OG White Cement, replacing the grey speckled areas with a vibrant fire red.",
+    "culturalTags": ["BASKETBALL","COLOR BLOCKING","CEMENT MASHUP","GR"]
   },
   {
     "id": "066",
@@ -2370,6 +2556,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0066",
     "productUrl": "https://www.goat.com/sneakers/air-jordan-4-retro-midnight-navy-dh6927-140"
+  ,
+    "lore": "Utilizing the classic 'White Cement' color blocking but replacing the black and red accents with deep navy blue.",
+    "culturalTags": ["BASKETBALL","COLOR BLOCKING","CEMENT MASHUP","GR"]
   },
   {
     "id": "067",
@@ -2405,6 +2594,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0067",
     "productUrl": "https://www.goat.com/sneakers/air-jordan-4-retro-silver-anniversary-408202-101"
+  ,
+    "lore": "An all-white release originally dropped in 2010 to celebrate 25 years of the Air Jordan lineage.",
+    "culturalTags": ["BASKETBALL","ANNIVERSARY","SILVER","ALL WHITE"]
   },
   {
     "id": "068",
@@ -2440,6 +2632,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0068",
     "productUrl": "https://www.goat.com/sneakers/a-ma-maniere-x-air-jordan-4-retro-violet-ore-dv6773-220"
+  ,
+    "lore": "Featuring a muted purple upper, a metallic pin on the collar, and a quote hidden behind the heel tab: 'It is not about the shoes, it is about where you are going.'",
+    "culturalTags": ["BASKETBALL","A MA MANIERE","LUXURY","STORYTELLING","COLLABORATION"]
   },
   {
     "id": "069",
@@ -2475,6 +2670,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0069",
     "productUrl": "https://www.goat.com/sneakers/air-jordan-4-retro-oreo-ct8527-100"
+  ,
+    "lore": "A clean, summer-ready colorway from 2021 that applies the speckled grey aesthetic to an all-white tumbled leather base.",
+    "culturalTags": ["BASKETBALL","SUMMER READY","LIFESTYLE","GR"]
   },
   {
     "id": "070",
@@ -2510,6 +2708,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0070",
     "productUrl": "https://www.goat.com/sneakers/air-jordan-4-retro-taupe-haze-db0732-200"
+  ,
+    "lore": "An earthy, pre-distressed colorway that drew heavy comparisons to Travis Scott's unreleased F&F Olive 4s.",
+    "culturalTags": ["BASKETBALL","EARTH TONES","DISTRESSED","LIFESTYLE"]
   },
   {
     "id": "071",
@@ -2545,6 +2746,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0071",
     "productUrl": "https://www.goat.com/sneakers/air-jordan-4-retro-og-gs-white-cement-2025-ib4171-100"
+  ,
+    "lore": "The grade-school sizing of the legendary 1989 classic, bringing Nike Air branding to smaller feet.",
+    "culturalTags": ["BASKETBALL","OG COLORWAY","YOUTH","TINKER HATFIELD"]
   },
   {
     "id": "072",
@@ -2580,6 +2784,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0072",
     "productUrl": "https://www.goat.com/sneakers/2002r-protection-pack-rain-cloud-m2002rda"
+  ,
+    "lore": "The shoe that catapulted the 2002R to modern stardom. Designed by Yue Wu, it features jagged, deconstructed suede panels meant to look like they've been worn and torn.",
+    "culturalTags": ["LIFESTYLE","PROTECTION PACK","YUE WU","DECONSTRUCTED","Y2K RUNNER"]
   },
   {
     "id": "073",
@@ -2615,6 +2822,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0073",
     "productUrl": "https://www.goat.com/sneakers/2002r-protection-pack-phantom-m2002rdb"
+  ,
+    "lore": "A stealthy, dark grey addition to the highly successful 'Refined Future' collection, known for its raw edges.",
+    "culturalTags": ["LIFESTYLE","PROTECTION PACK","DECONSTRUCTED","MONOCHROMATIC"]
   },
   {
     "id": "074",
@@ -2650,6 +2860,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0074",
     "productUrl": "https://www.goat.com/sneakers/9060-black-grey-u9060zge"
+  ,
+    "lore": "Not to be confused with Jordan, this dark iteration of the futuristic 9060 silhouette utilizes heavy mesh and premium suedes.",
+    "culturalTags": ["LIFESTYLE","CHUNKY SOLE","FUTURISTIC","MONOCHROMATIC"]
   },
   {
     "id": "075",
@@ -2685,6 +2898,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0075",
     "productUrl": "https://www.goat.com/sneakers/1906r-silver-metallic-black-m1906rer"
+  ,
+    "lore": "Embodying the Y2K runner aesthetic, this release relies on aggressive silver overlays and a dark mesh base.",
+    "culturalTags": ["LIFESTYLE","Y2K AESTHETIC","METALLIC","TECH RUNNER"]
   },
   {
     "id": "076",
@@ -2720,6 +2936,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0076",
     "productUrl": "https://www.goat.com/sneakers/740-black-silver-u740bm2"
+  ,
+    "lore": "A revival of an obscure archival runner, brought back with modern tech and aggressive metallic styling.",
+    "culturalTags": ["LIFESTYLE","ARCHIVE REVIVAL","Y2K RUNNER","METALLIC"]
   },
   {
     "id": "077",
@@ -2755,6 +2974,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0077",
     "productUrl": "https://www.goat.com/sneakers/9060-white-grey-u9060hsc"
+  ,
+    "lore": "An ultra-premium execution of the chunky 9060, using hairy suede and muted off-white tones.",
+    "culturalTags": ["LIFESTYLE","SUEDE PACK","PREMIUM","CHUNKY SOLE"]
   },
   {
     "id": "078",
@@ -2790,6 +3012,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0078",
     "productUrl": "https://www.goat.com/sneakers/1906r-silver-metallic-cream-m1906ree"
+  ,
+    "lore": "A perfect blend of vintage and futuristic, using a cream midsole to simulate age beneath shiny silver uppers.",
+    "culturalTags": ["LIFESTYLE","VINTAGE AESTHETIC","METALLIC","TECH RUNNER"]
   },
   {
     "id": "079",
@@ -2825,6 +3050,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0079",
     "productUrl": "https://www.goat.com/sneakers/1906-black-dark-silver-metallic-m1906af"
+  ,
+    "lore": "An alternate tooling of the 1906, offering a more streamlined, stealthy all-black aesthetic.",
+    "culturalTags": ["LIFESTYLE","TECH RUNNER","ALTERNATE TOOLING","MONOCHROMATIC"]
   },
   {
     "id": "080",
@@ -2860,6 +3088,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0080",
     "productUrl": "https://www.goat.com/sneakers/850-grey-ml850cf"
+  ,
+    "lore": "Originally released in 1996, the 850 was the first New Balance shoe to remove the iconic N logo from the side profile.",
+    "culturalTags": ["LIFESTYLE","90s RUNNER","NO N-LOGO","ARCHIVE"]
   },
   {
     "id": "081",
@@ -2895,6 +3126,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0081",
     "productUrl": "https://www.goat.com/sneakers/9060-triple-black-u9060bpm"
+  ,
+    "lore": "A rugged, stealthy take on the Y2K-inspired silhouette, utilizing heavy suede panels across the entire upper.",
+    "culturalTags": ["LIFESTYLE","CHUNKY SOLE","SUEDE PACK","TRIPLE BLACK"]
   },
   {
     "id": "082",
@@ -2930,6 +3164,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0082",
     "productUrl": "https://www.goat.com/sneakers/mr530sg-white-mr530sg"
+  ,
+    "lore": "The ultimate 'dad shoe' of the 2020s, offering massive comfort and a retro 90s aesthetic at an accessible price point.",
+    "culturalTags": ["LIFESTYLE","DAD SHOE","90s AESTHETIC","EVERYDAY STAPLE","ACCESSIBLE"]
   },
   {
     "id": "083",
@@ -2965,6 +3202,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0083",
     "productUrl": "https://www.goat.com/sneakers/1906r-white-gold-m1906ra"
+  ,
+    "lore": "Leaning heavily into 2000s maximalism, this colorway combines bright silver and gold accents over a white mesh base.",
+    "culturalTags": ["LIFESTYLE","MAXIMALIST","METALLIC","Y2K AESTHETIC"]
   },
   {
     "id": "084",
@@ -3000,6 +3240,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0084",
     "productUrl": "https://www.goat.com/sneakers/2002r-protection-pack-sea-salt-m2002rdc"
+  ,
+    "lore": "A clean, white and cream version of Yue Wu's 'Refined Future' pack, featuring the signature jagged edges.",
+    "culturalTags": ["LIFESTYLE","PROTECTION PACK","DECONSTRUCTED","SUMMER READY"]
   },
   {
     "id": "085",
@@ -3035,6 +3278,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0085",
     "productUrl": "https://www.goat.com/sneakers/1906r-pink-taffy-u1906rcu"
+  ,
+    "lore": "A vibrant, lifestyle-focused iteration of the tech runner, utilizing bright pink accents for a playful look.",
+    "culturalTags": ["LIFESTYLE","TECH RUNNER","VIBRANT","Y2K AESTHETIC"]
   },
   {
     "id": "086",
@@ -3070,6 +3316,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0086",
     "productUrl": "https://www.goat.com/sneakers/9060-black-castlerock-u9060blk"
+  ,
+    "lore": "A moody, greyscale approach to the 9060, highlighting the extreme proportions of the ABZORB midsole.",
+    "culturalTags": ["LIFESTYLE","CHUNKY SOLE","FUTURISTIC","GREYSCALE"]
   },
   {
     "id": "087",
@@ -3105,6 +3354,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0087",
     "productUrl": "https://www.goat.com/sneakers/1000-triple-black-m1000la"
+  ,
+    "lore": "A sleek, dark colorway of the recently revived late-90s silhouette, favored for its chunky, wavy upper panels.",
+    "culturalTags": ["LIFESTYLE","LATE 90s","ARCHIVE REVIVAL","WAVY DESIGN"]
   },
   {
     "id": "088",
@@ -3140,6 +3392,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0088",
     "productUrl": "https://www.goat.com/sneakers/9060-washed-blue-u9060ib"
+  ,
+    "lore": "A cool-toned, blue-grey version of the futuristic runner, offering a frosty aesthetic with premium suede.",
+    "culturalTags": ["LIFESTYLE","CHUNKY SOLE","SUEDE PACK","COOL TONES"]
   },
   {
     "id": "089",
@@ -3175,6 +3430,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0089",
     "productUrl": "https://www.goat.com/sneakers/1906r-silver-metallic-deep-ocean-u1906rce"
+  ,
+    "lore": "Combining Y2K runner vibes with rich blue accents, making it a standout in the modern tech-runner craze.",
+    "culturalTags": ["LIFESTYLE","TECH RUNNER","Y2K AESTHETIC","METALLIC"]
   },
   {
     "id": "090",
@@ -3210,6 +3468,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0090",
     "productUrl": "https://www.goat.com/sneakers/bape-x-2002r-apes-together-strong-camo-m2002r-bape-camo"
+  ,
+    "lore": "A massive collaboration blending BAPE's iconic ABC camo and shark tooth motifs with the comfortable 2002R runner.",
+    "culturalTags": ["LIFESTYLE","BAPE","STREETWEAR","CAMO","COLLABORATION"]
   },
   {
     "id": "091",
@@ -3245,6 +3506,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0091",
     "productUrl": "https://www.goat.com/sneakers/2002r-triple-black-suede-u2002rbl"
+  ,
+    "lore": "An everyday staple utilizing the highly comfortable N-ERGY sole unit paired with a durable black suede upper.",
+    "culturalTags": ["LIFESTYLE","EVERYDAY STAPLE","MONOCHROMATIC","GR"]
   },
   {
     "id": "092",
@@ -3280,6 +3544,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0092",
     "productUrl": "https://www.goat.com/sneakers/1906l-silver-shadow-grey-u1906lae"
+  ,
+    "lore": "A loafer iteration of the 1906! Blending high-tech running soles with a slip-on loafer upper, creating a bizarre but highly popular fashion fusion.",
+    "culturalTags": ["LIFESTYLE","LOAFER","HYBRID DESIGN","FASHION FORWARD","EXPERIMENTAL"]
   },
   {
     "id": "093",
@@ -3315,6 +3582,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0093",
     "productUrl": "https://www.goat.com/sneakers/1906d-protection-pack-triple-black-m1906df"
+  ,
+    "lore": "Bringing the jagged, torn 'Refined Future' aesthetic to the 1906 silhouette in a stealthy all-black execution.",
+    "culturalTags": ["LIFESTYLE","PROTECTION PACK","DECONSTRUCTED","TRIPLE BLACK","TECH RUNNER"]
   },
   {
     "id": "094",
@@ -3350,6 +3620,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0094",
     "productUrl": "https://www.goat.com/sneakers/1000-green-grey-m1000ma"
+  ,
+    "lore": "An outdoor-inspired colorway of the chunky 1999 runner, blending rich green suedes with a white mesh base.",
+    "culturalTags": ["LIFESTYLE","OUTDOOR INSPIRED","LATE 90s","ARCHIVE REVIVAL"]
   },
   {
     "id": "095",
@@ -3385,6 +3658,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0095",
     "productUrl": "https://www.goat.com/sneakers/550-white-timberwolf-bb550pwg"
+  ,
+    "lore": "Steven Smith's 1989 basketball oxford, revived by Aimé Leon Dore, presented here in a clean, neutral grey and white GR colorway.",
+    "culturalTags": ["LIFESTYLE","BASKETBALL ORIGINS","STEVEN SMITH","RETRO OXFORD","GR"]
   },
   {
     "id": "096",
@@ -3420,6 +3696,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0096",
     "productUrl": "https://www.goat.com/sneakers/2002r-protection-pack-lunar-new-year-m2002rdy"
+  ,
+    "lore": "A special edition of the jagged 'Refined Future' pack, featuring muted tones meant to celebrate the changing of the zodiac calendar.",
+    "culturalTags": ["LIFESTYLE","PROTECTION PACK","LUNAR NEW YEAR","ZODIAC","SPECIAL EDITION"]
   },
   {
     "id": "097",
@@ -3455,6 +3734,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0097",
     "productUrl": "https://www.goat.com/sneakers/2002r-black-gunmetal-m2002rbk"
+  ,
+    "lore": "A highly technical looking colorway, leaning on dark metallic accents over a black mesh base.",
+    "culturalTags": ["LIFESTYLE","TECH RUNNER","METALLIC","DARK TONES"]
   },
   {
     "id": "098",
@@ -3490,6 +3772,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0098",
     "productUrl": "https://www.goat.com/sneakers/530-raincloud-mr530ck"
+  ,
+    "lore": "An incredibly popular, lightweight lifestyle runner that dominated global street style throughout the early 2020s.",
+    "culturalTags": ["LIFESTYLE","DAD SHOE","MAINSTREAM HIT","EVERYDAY STAPLE"]
   },
   {
     "id": "099",
@@ -3525,6 +3810,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0099",
     "productUrl": "https://www.goat.com/sneakers/1906a-black-pink-u1906ad"
+  ,
+    "lore": "A striking colorway that pops dark bases with vibrant purple-pink 'Dragon Berry' accents on the N-Lock logo.",
+    "culturalTags": ["LIFESTYLE","TECH RUNNER","VIBRANT ACCENTS","ALTERNATE TOOLING"]
   },
   {
     "id": "100",
@@ -3560,6 +3848,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0100",
     "productUrl": "https://www.goat.com/sneakers/2002r-protection-pack-eclipse-m2002rdo"
+  ,
+    "lore": "A deep navy iteration of the deconstructed suede pack that took the sneaker world by storm.",
+    "culturalTags": ["LIFESTYLE","PROTECTION PACK","DECONSTRUCTED","TONAL"]
   },
   {
     "id": "101",
@@ -3595,6 +3886,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0101",
     "productUrl": "https://www.goat.com/sneakers/1906-silver-gold-metallic-m1906ad"
+  ,
+    "lore": "A pure homage to early 2000s running shoe aesthetics, complete with aggressive metallic overlays.",
+    "culturalTags": ["LIFESTYLE","TECH RUNNER","METALLIC","Y2K AESTHETIC"]
   },
   {
     "id": "102",
@@ -3630,6 +3924,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0102",
     "productUrl": "https://www.goat.com/sneakers/1906d-protection-pack-triple-white-m1906de"
+  ,
+    "lore": "A pristine, all-white application of the torn-suede aesthetic on the popular 1906 tech runner.",
+    "culturalTags": ["LIFESTYLE","PROTECTION PACK","DECONSTRUCTED","ALL WHITE","TECH RUNNER"]
   },
   {
     "id": "103",
@@ -3665,6 +3962,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0103",
     "productUrl": "https://www.goat.com/sneakers/2002r-protection-pack-brown-size-exclusive-m2002rd6"
+  ,
+    "lore": "An exclusive, earth-toned version of the Refined Future pack released specifically for European retailer size?.",
+    "culturalTags": ["LIFESTYLE","PROTECTION PACK","SIZE? EXCLUSIVE","EARTH TONES"]
   },
   {
     "id": "104",
@@ -3700,6 +4000,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0104",
     "productUrl": "https://www.goat.com/sneakers/9060-quartz-grey-u9060hsa"
+  ,
+    "lore": "A masterclass in neutral toning, blending soft greys and creams on the retro-futuristic 9060 silhouette.",
+    "culturalTags": ["LIFESTYLE","CHUNKY SOLE","NEUTRAL TONES","FUTURISTIC"]
   },
   {
     "id": "105",
@@ -3735,6 +4038,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0105",
     "productUrl": "https://www.goat.com/sneakers/1906r-primaloft-black-silver-u1906ros"
+  ,
+    "lore": "A standard yet highly effective Y2K colorway, combining breathable black mesh with structured silver synthetic panels.",
+    "culturalTags": ["LIFESTYLE","TECH RUNNER","Y2K AESTHETIC","EVERYDAY STAPLE"]
   },
   {
     "id": "106",
@@ -3770,6 +4076,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0106",
     "productUrl": "https://www.goat.com/sneakers/740v2-navy-white-shadow-grey-u740wn2"
+  ,
+    "lore": "A faithful retro of a niche early 2000s stability runner, featuring classic navy and grey New Balance blocking.",
+    "culturalTags": ["LIFESTYLE","ARCHIVE REVIVAL","Y2K RUNNER","STABILITY RUNNER"]
   },
   {
     "id": "107",
@@ -3805,6 +4114,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0107",
     "productUrl": "https://www.goat.com/sneakers/9060-pink-overdye-asos-exclusive-u9060app"
+  ,
+    "lore": "A unique, fashion-forward release utilizing a washed, overdyed pink treatment on the suede upper.",
+    "culturalTags": ["LIFESTYLE","ASOS EXCLUSIVE","OVERDYED","EXPERIMENTAL"]
   },
   {
     "id": "108",
@@ -3840,6 +4152,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0108",
     "productUrl": "https://www.goat.com/sneakers/990v4-made-in-usa-grey-silver-u990gr4"
+  ,
+    "lore": "The fourth iteration of the legendary 990 series, refined for modern wear while keeping the absolute highest standard of US manufacturing.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","990 SERIES","PREMIUM CRAFTSMANSHIP","DMV STAPLE"]
   },
   {
     "id": "109",
@@ -3875,6 +4190,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0109",
     "productUrl": "https://www.goat.com/sneakers/990v6-made-in-usa-castlerock-m990gl6"
+  ,
+    "lore": "The standard-bearer of the modern Made in USA line, introducing FuelCell cushioning to the legendary 990 lineage.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","990 SERIES","FUELCELL","MODERN RUNNER"]
   },
   {
     "id": "110",
@@ -3910,6 +4228,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0110",
     "productUrl": "https://www.goat.com/sneakers/990v3-made-in-usa-grey-m990gy3"
+  ,
+    "lore": "Widely considered the best of the 990 series. The v3 introduced a more aggressive, technical look while maintaining supreme comfort and domestic quality.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","990 SERIES","FAN FAVORITE","TECH-BRO UNIFORM"]
   },
   {
     "id": "111",
@@ -3945,6 +4266,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0111",
     "productUrl": "https://www.goat.com/sneakers/990v4-made-in-usa-arctic-grey-black-u990bb4"
+  ,
+    "lore": "Designed by ALD founder Teddy Santis for his Made in USA seasonal collection, featuring premium hairy suede and contrasting black midsoles.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","TEDDY SANTIS","CREATIVE DIRECTOR","PREMIUM"]
   },
   {
     "id": "112",
@@ -3980,6 +4304,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0112",
     "productUrl": "https://www.goat.com/sneakers/990v3-made-in-usa-black-m990bs3"
+  ,
+    "lore": "The quintessential stealth dad-shoe, favored by tech CEOs and streetwear enthusiasts alike for its unrivaled comfort and quality.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","990 SERIES","STEALTH","EVERYDAY STAPLE"]
   },
   {
     "id": "113",
@@ -4015,6 +4342,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0113",
     "productUrl": "https://www.goat.com/sneakers/bodega-x-990v3-made-in-usa-15th-anniversary-bodega-990v3"
+  ,
+    "lore": "Celebrating the Boston boutique's 15th anniversary, this earthy release features massive attention to detail, premium pigskin, and custom branding.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","BODEGA","ANNIVERSARY","COLLABORATION","STORYTELLING"]
   },
   {
     "id": "114",
@@ -4050,6 +4380,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0114",
     "productUrl": "https://www.goat.com/sneakers/action-bronson-x-990v6-made-in-usa-amazonia-00011-10000abx9mi"
+  ,
+    "lore": "The rapper/chef's first collaboration, featuring a wild, colorful mix of neon greens, blues, and browns that perfectly matches his chaotic energy.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","ACTION BRONSON","VIBRANT","COLLABORATION"]
   },
   {
     "id": "115",
@@ -4085,6 +4418,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0115",
     "productUrl": "https://www.goat.com/sneakers/action-bronson-x-990v6-made-in-usa-lapis-lazuli-m990ac6"
+  ,
+    "lore": "Bronson's second 990v6, taking a more wearable approach with rich blues, silver accents, and a gum sole.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","ACTION BRONSON","TONAL","COLLABORATION"]
   },
   {
     "id": "116",
@@ -4120,6 +4456,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0116",
     "productUrl": "https://www.goat.com/sneakers/990v4-made-in-usa-red-label-grey-m990vs4"
+  ,
+    "lore": "A slight variation on the classic grey v4, featuring a red tab on the tongue denoting its premium Made in USA status.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","990 SERIES","RED LABEL","PREMIUM"]
   },
   {
     "id": "117",
@@ -4155,6 +4494,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0117",
     "productUrl": "https://www.goat.com/sneakers/990v4-made-in-usa-black-silver-2023-u990bl4"
+  ,
+    "lore": "A clean, simple execution of the v4, offering a durable black suede upper perfect for harsh weather wear.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","990 SERIES","EVERYDAY STAPLE","DURABLE"]
   },
   {
     "id": "118",
@@ -4190,6 +4532,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0118",
     "productUrl": "https://www.goat.com/sneakers/action-bronson-x-990v6-made-in-usa-multi-color-u990at6"
+  ,
+    "lore": "A highly limited iteration of Bronson's chaotic color palette, brought to life on the comfortable FuelCell sole.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","ACTION BRONSON","LIMITED","COLLABORATION"]
   },
   {
     "id": "119",
@@ -4225,6 +4570,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0119",
     "productUrl": "https://www.goat.com/sneakers/teddy-santis-x-990v4-made-in-usa-grey-cream-u990tg4"
+  ,
+    "lore": "Part of Season 4 of Santis' direction, utilizing a moody grey and black scheme with white laces for heavy contrast.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","TEDDY SANTIS","MOODY TONES","PREMIUM"]
   },
   {
     "id": "120",
@@ -4260,6 +4608,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0120",
     "productUrl": "https://www.goat.com/sneakers/teddy-santis-x-990v3-made-in-usa-khaki-orange-m990bt3"
+  ,
+    "lore": "A bold seasonal drop combining earth-toned suedes with sharp, vibrant orange accents.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","TEDDY SANTIS","VIBRANT ACCENTS","EARTH TONES"]
   },
   {
     "id": "121",
@@ -4295,6 +4646,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0121",
     "productUrl": "https://www.goat.com/sneakers/teddy-santis-x-990v4-made-in-usa-purple-suede-u990tb4"
+  ,
+    "lore": "A stunning use of color on the typically grey 990, wrapping the entire shoe in rich, premium purple suede.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","TEDDY SANTIS","MONOCHROMATIC","PREMIUM"]
   },
   {
     "id": "122",
@@ -4330,6 +4684,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0122",
     "productUrl": "https://www.goat.com/sneakers/990v6-made-in-usa-workwear-grey-u990tn6"
+  ,
+    "lore": "Swapping the usual grey for a rugged, wheat-like tan colorway that evokes classic work boots.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","WORKWEAR","WHEAT TONES","RUGGED"]
   },
   {
     "id": "123",
@@ -4365,6 +4722,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0123",
     "productUrl": "https://www.goat.com/sneakers/teddy-santis-x-990v3-made-in-usa-green-yellow-m990gg3"
+  ,
+    "lore": "Evoking classic collegiate colors, this Made in USA release blends deep forest green with golden yellow hits.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","TEDDY SANTIS","COLLEGIATE","PREMIUM"]
   },
   {
     "id": "124",
@@ -4400,6 +4760,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0124",
     "productUrl": "https://www.goat.com/sneakers/990v6-made-in-usa-reflection-marblehead-u990nc6"
+  ,
+    "lore": "A masterful, subtle shift from the standard grey, using lighter tones and premium mesh.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","TEDDY SANTIS","SUBTLE TONES","PREMIUM"]
   },
   {
     "id": "125",
@@ -4435,6 +4798,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0125",
     "productUrl": "https://www.goat.com/sneakers/action-bronson-x-990v6-made-in-usa-baklava-m990ab6"
+  ,
+    "lore": "The official name of Bronson's neon-green debut collab, instantly recognizable and highly sought after.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","ACTION BRONSON","BAKLAVA","VIBRANT","COLLABORATION"]
   },
   {
     "id": "126",
@@ -4470,6 +4836,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0126",
     "productUrl": "https://www.goat.com/sneakers/teddy-santis-x-990v6-made-in-usa-paris-u990pa6"
+  ,
+    "lore": "A highly exclusive regional release celebrating the opening of the Paris Aimé Leon Dore flagship store.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","TEDDY SANTIS","PARIS FLAGSHIP","REGIONAL EXCLUSIVE"]
   },
   {
     "id": "127",
@@ -4505,6 +4874,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0127",
     "productUrl": "https://www.goat.com/sneakers/action-bronson-x-990v6-made-in-usa-community-red-u990rt6"
+  ,
+    "lore": "Part of a pack highlighting local community hubs, featuring vibrant red suedes and standard domestic craftsmanship.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","TEDDY SANTIS","COMMUNITY PACK","VIBRANT"]
   },
   {
     "id": "128",
@@ -4540,6 +4912,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0128",
     "productUrl": "https://www.goat.com/sneakers/jjjjound-x-990v3-made-in-usa-olive-m990jd3"
+  ,
+    "lore": "The Montreal design studio's masterclass in minimalism, selling out instantly and commanding massive resale prices due to its perfect shade of green.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","JJJJOUND","MINIMALIST","HYPE","COLLABORATION"]
   },
   {
     "id": "129",
@@ -4575,6 +4950,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0129",
     "productUrl": "https://www.goat.com/sneakers/990v6-made-in-usa-triple-black-u990bb6"
+  ,
+    "lore": "The stealth bomber of the v6 lineup, perfect for the hospitality industry or tech-wear fashion.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","TRIPLE BLACK","WORKWEAR","FUELCELL"]
   },
   {
     "id": "130",
@@ -4610,6 +4988,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0130",
     "productUrl": "https://www.goat.com/sneakers/jjjjound-x-990v3-made-in-usa-brown-m990jj3"
+  ,
+    "lore": "Following up the Olive release, Justin Saunders applied a rich chocolate brown to the v3 with black accents.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","JJJJOUND","EARTH TONES","MINIMALIST","COLLABORATION"]
   },
   {
     "id": "131",
@@ -4645,6 +5026,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0131",
     "productUrl": "https://www.goat.com/sneakers/990v6-made-in-usa-salmon-u990sr6"
+  ,
+    "lore": "A vibrant, pinkish-orange take on the v6, breaking from New Balance's traditionally muted color palettes.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","VIBRANT","LIFESTYLE GR"]
   },
   {
     "id": "132",
@@ -4680,6 +5064,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0132",
     "productUrl": "https://www.goat.com/sneakers/990-made-in-usa-navy-denim-m990nb3"
+  ,
+    "lore": "A staple colorway in the NB catalog, offering a slightly more formal alternative to the classic grey.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","990 SERIES","EVERYDAY STAPLE","COLLEGIATE"]
   },
   {
     "id": "133",
@@ -4715,6 +5102,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0133",
     "productUrl": "https://www.goat.com/sneakers/990v6-made-in-usa-light-mushroom-moonrock-u990mm6"
+  ,
+    "lore": "A highly refined, tonal beige colorway that perfectly fits the Aimé Leon Dore aesthetic.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","TEDDY SANTIS","ALD AESTHETIC","NEUTRAL TONES"]
   },
   {
     "id": "134",
@@ -4750,6 +5140,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0134",
     "productUrl": "https://www.goat.com/sneakers/teddy-santis-x-990v6-made-in-usa-community-pack-vintage-indigo-u990lt6"
+  ,
+    "lore": "Focusing on deep, collegiate navy blue, accented by crisp white midsoles and silver N logos.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","TEDDY SANTIS","COMMUNITY PACK","COLLEGIATE"]
   },
   {
     "id": "135",
@@ -4785,6 +5178,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0135",
     "productUrl": "https://www.goat.com/sneakers/teddy-santis-x-990v3-made-in-usa-raw-amethyst-m990td3"
+  ,
+    "lore": "One of the standout hits from Santis' Season 1, utilizing a striking purple suede over a navy mesh base.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","TEDDY SANTIS","VIBRANT","PREMIUM"]
   },
   {
     "id": "136",
@@ -4820,6 +5216,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0136",
     "productUrl": "https://www.goat.com/sneakers/teddy-santis-x-990v3-made-in-usa-olive-burgundy-m990gp3"
+  ,
+    "lore": "A bold, somewhat Joker-esque color palette executed with the highest quality domestic materials.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","TEDDY SANTIS","VIBRANT","PREMIUM"]
   },
   {
     "id": "137",
@@ -4855,6 +5254,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0137",
     "productUrl": "https://www.goat.com/sneakers/990v3-made-in-usa-scarlet-marblehead-m990tf3"
+  ,
+    "lore": "Blending vibrant red suede with traditional grey mesh, creating a striking contrast.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","TEDDY SANTIS","HIGH CONTRAST","PREMIUM"]
   },
   {
     "id": "138",
@@ -4890,6 +5292,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0138",
     "productUrl": "https://www.goat.com/sneakers/990v5-grey-m990gl5"
+  ,
+    "lore": "The 2019 update to the 990, known for its plastic power strap on the collar and a slightly more streamlined look.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","990 SERIES","STREAMLINED","GR"]
   },
   {
     "id": "139",
@@ -4925,6 +5330,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0139",
     "productUrl": "https://www.goat.com/sneakers/990v3-made-in-usa-black-tan-m990bb3"
+  ,
+    "lore": "A highly wearable colorway combining a black base with tan heel accents, providing a subtle pop of contrast.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","TEDDY SANTIS","EVERYDAY STAPLE","PREMIUM"]
   },
   {
     "id": "140",
@@ -4960,6 +5368,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0140",
     "productUrl": "https://www.goat.com/sneakers/kith-x-990v3-made-in-usa-steel-blue-m990ks3"
+  ,
+    "lore": "Ronnie Fieg's homage to the legendary 1300JP colorway, ported over flawlessly to the 990v3 silhouette.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","KITH","RONNIE FIEG","1300JP HOMAGE","COLLABORATION"]
   },
   {
     "id": "141",
@@ -4995,6 +5406,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0141",
     "productUrl": "https://www.goat.com/sneakers/990v4-made-in-usa-castlerock-m990gl4"
+  ,
+    "lore": "The standard grey iteration of the v4, beloved by DMV residents and global fashion icons alike.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","990 SERIES","DMV STAPLE","EVERYDAY STAPLE"]
   },
   {
     "id": "142",
@@ -5030,6 +5444,9 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0142",
     "productUrl": "https://www.goat.com/sneakers/aime-leon-dore-x-990v4-made-in-usa-true-camo-u990ct4"
+  ,
+    "lore": "Featuring a dark, earthy green tone, released exclusively through ALD before hitting broader New Balance channels.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","TEDDY SANTIS","EARTH TONES","PREMIUM"]
   },
   {
     "id": "143",
@@ -5065,5 +5482,8 @@ export const products: Product[] = [
     ],
     "sku": "SKU-0143",
     "productUrl": "https://www.goat.com/sneakers/teddy-santis-x-990v6-made-in-usa-clay-ash-u990gt6"
+  ,
+    "lore": "A soft, pastel approach to the highly technical v6, offering a refreshing spring aesthetic.",
+    "culturalTags": ["LIFESTYLE","MADE IN USA","TEDDY SANTIS","COMMUNITY PACK","PASTEL"]
   }
 ];
