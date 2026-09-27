@@ -1,0 +1,1 @@
+import{t as e}from"./atom.BHlpGGMW.js";var t=e(null);if(typeof window<`u`){let e=sessionStorage.getItem(`outright-order`);if(e)try{t.set(JSON.parse(e))}catch(e){console.error(`Failed to parse order snapshot`,e)}t.subscribe(e=>{e?sessionStorage.setItem(`outright-order`,JSON.stringify(e)):sessionStorage.removeItem(`outright-order`)})}export{t};

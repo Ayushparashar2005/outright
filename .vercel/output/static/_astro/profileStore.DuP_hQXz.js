@@ -1,0 +1,1 @@
+import{t as e}from"./atom.BHlpGGMW.js";var t=e(null);if(typeof window<`u`){let e=localStorage.getItem(`outright-profile`);if(e)try{t.set(JSON.parse(e))}catch(e){console.error(`Failed to parse profile`,e)}t.subscribe(e=>{e?localStorage.setItem(`outright-profile`,JSON.stringify(e)):localStorage.removeItem(`outright-profile`)})}export{t};

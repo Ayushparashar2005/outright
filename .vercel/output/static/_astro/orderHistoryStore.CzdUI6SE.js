@@ -1,0 +1,1 @@
+import{t as e}from"./atom.BHlpGGMW.js";var t=e([]);if(typeof window<`u`){let e=localStorage.getItem(`outright-order-history`);if(e)try{t.set(JSON.parse(e))}catch(e){console.error(`Failed to parse order history`,e)}t.subscribe(e=>{localStorage.setItem(`outright-order-history`,JSON.stringify(e))})}var n=e=>{t.set([e,...t.get()])};export{t as n,n as t};

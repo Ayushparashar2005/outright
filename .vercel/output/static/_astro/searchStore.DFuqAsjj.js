@@ -1,0 +1,1 @@
+import{t as e}from"./atom.BHlpGGMW.js";var t=e(!1),n=e(``),r=()=>t.set(!0),i=()=>{t.set(!1),n.set(``)},a=()=>{t.get()?i():r()};export{a as i,t as n,n as r,i as t};

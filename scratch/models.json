@@ -1,0 +1,578 @@
+[
+  {
+    "id": "000",
+    "model": "Nike Dunk Low 'Black White'"
+  },
+  {
+    "id": "001",
+    "model": "Travis Scott x Playstation x Nike Dunk Low"
+  },
+  {
+    "id": "002",
+    "model": "The Powerpuff Girls x Nike Dunk Low Pro SB QS PS 'Bubbles'"
+  },
+  {
+    "id": "003",
+    "model": "Concepts x Nike Dunk Low SB 'Orange Lobster'"
+  },
+  {
+    "id": "004",
+    "model": "Undefeated x Nike Dunk Low 'Dunk vs AF1'"
+  },
+  {
+    "id": "005",
+    "model": "Nike Dunk Low 'Grey Fog'"
+  },
+  {
+    "id": "006",
+    "model": "Nike Dunk Low LTD 'Wizard'"
+  },
+  {
+    "id": "007",
+    "model": "Stranger Things x Nike Dunk Low 'Phantom'"
+  },
+  {
+    "id": "008",
+    "model": "Nike Dunk Low SE 'Triple Black'"
+  },
+  {
+    "id": "009",
+    "model": "Ben & Jerry's x Nike Dunk Low SB 'Chunky Dunky'"
+  },
+  {
+    "id": "010",
+    "model": "Cactus Plant Flea Market x Nike Dunk Low 'Swamp Sponge Pack - Psychic Purple'"
+  },
+  {
+    "id": "011",
+    "model": "Nike Dunk Low 'Frankenstein'"
+  },
+  {
+    "id": "012",
+    "model": "Nike Dunk Low Pro SB 'Freddy Krueger'"
+  },
+  {
+    "id": "013",
+    "model": "League of Legends x Nike Dunk Low"
+  },
+  {
+    "id": "014",
+    "model": "Nike Dunk Low Premium 'Setsubun'"
+  },
+  {
+    "id": "015",
+    "model": "Futura Laboratories x Nike Dunk Low SB 'Bleached Aqua'"
+  },
+  {
+    "id": "016",
+    "model": "Nike Dunk Low 'Athletic Department - Deep Jungle'"
+  },
+  {
+    "id": "017",
+    "model": "Nike Dunk Low 'Midnight Navy Smoke Grey'"
+  },
+  {
+    "id": "018",
+    "model": "Nike Dunk Low GS 'Year of the Dragon'"
+  },
+  {
+    "id": "019",
+    "model": "Nike Dunk Low 'Silver Surfer' 2024"
+  },
+  {
+    "id": "020",
+    "model": "Nike Dunk Low 'Year of the Snake'"
+  },
+  {
+    "id": "021",
+    "model": "Nike Dunk Low 'Reverse Panda'"
+  },
+  {
+    "id": "022",
+    "model": "Off-White x Nike Rubber Dunk TD 'Green Strike'"
+  },
+  {
+    "id": "023",
+    "model": "Nike Dunk Low Next Nature 'Baroque Brown'"
+  },
+  {
+    "id": "024",
+    "model": "The Powerpuff Girls x Nike Dunk Low Pro SB QS 'Buttercup'"
+  },
+  {
+    "id": "025",
+    "model": "Nike Dunk Low ‘What the Duck - University of Oregon Alternate’ PE"
+  },
+  {
+    "id": "026",
+    "model": "Cactus Plant Flea Market x Nike Dunk Low 'Swamp Sponge Pack - Photo Blue'"
+  },
+  {
+    "id": "027",
+    "model": "Verdy x Nike Dunk Low SB 'Visty'"
+  },
+  {
+    "id": "028",
+    "model": "Nike Dunk Low 'Kentucky' 2025"
+  },
+  {
+    "id": "029",
+    "model": "Union LA x Nike Dunk Low 'Passport Pack - Argon'"
+  },
+  {
+    "id": "030",
+    "model": "Nike Dunk Low 'Valerian Blue'"
+  },
+  {
+    "id": "031",
+    "model": "Nike Wmns Dunk Low 'Cacao Wow'"
+  },
+  {
+    "id": "032",
+    "model": "Limosine Skateboards x Nike Dunk Low SB 'Football'"
+  },
+  {
+    "id": "033",
+    "model": "Supreme x Nike Dunk Low SB 'Ocean Fog'"
+  },
+  {
+    "id": "034",
+    "model": "Nike Dunk Low SB 'Sandy Bodecker'"
+  },
+  {
+    "id": "035",
+    "model": "Jarritos x Nike Dunk Low SB"
+  },
+  {
+    "id": "036",
+    "model": "Undefeated x Air Jordan 4 Retro 2025"
+  },
+  {
+    "id": "037",
+    "model": "Air Jordan 4 Retro 'Rare Air - White Lettering'"
+  },
+  {
+    "id": "038",
+    "model": "Wmns Air Jordan 4 Retro TEX 'Worn Blue Denim'"
+  },
+  {
+    "id": "039",
+    "model": "Air Jordan 4 Retro 'Black Cat' 2025"
+  },
+  {
+    "id": "040",
+    "model": "Air Jordan 4 Retro OG 'White Cement' 2025"
+  },
+  {
+    "id": "041",
+    "model": "Nike SB x Air Jordan 4 Retro SP 'Navy'"
+  },
+  {
+    "id": "042",
+    "model": "Air Jordan 4 Retro 'Cave Stone'"
+  },
+  {
+    "id": "043",
+    "model": "Nigel Sylvester x Air Jordan 4 Retro OG SP 'Brick By Brick'"
+  },
+  {
+    "id": "044",
+    "model": "Jan 17"
+  },
+  {
+    "id": "045",
+    "model": "Air Jordan 4 Retro 'White Thunder'"
+  },
+  {
+    "id": "046",
+    "model": "Air Jordan 4 Retro 'Bred Reimagined'"
+  },
+  {
+    "id": "047",
+    "model": "Air Jordan 4 Retro 'Military Blue' 2024"
+  },
+  {
+    "id": "048",
+    "model": "Air Jordan 4 Retro GS 'Black Cat' 2025"
+  },
+  {
+    "id": "049",
+    "model": "A Ma Maniére x Air Jordan 4 Retro 'Dark Mocha'"
+  },
+  {
+    "id": "050",
+    "model": "Air Jordan 4 Retro 'Red Thunder'"
+  },
+  {
+    "id": "051",
+    "model": "Nike SB x Air Jordan 4 Retro SP 'Pine Green'"
+  },
+  {
+    "id": "052",
+    "model": "Air Jordan 4 Retro SE 'Wet Cement'"
+  },
+  {
+    "id": "053",
+    "model": "Air Jordan 4 Retro OG 'Bred' 2019"
+  },
+  {
+    "id": "054",
+    "model": "A Ma Maniére x Wmns Air Jordan 4 Retro 'While You Were Sleeping'"
+  },
+  {
+    "id": "055",
+    "model": "Air Jordan 4 Retro 'Fear' 2024"
+  },
+  {
+    "id": "056",
+    "model": "Air Jordan 4 Retro OG 'Fire Red' 2020"
+  },
+  {
+    "id": "057",
+    "model": "Wmns Air Jordan 4 Retro 'Orchid'"
+  },
+  {
+    "id": "058",
+    "model": "Air Jordan 4 Retro 'Thunder' 2023"
+  },
+  {
+    "id": "059",
+    "model": "Air Jordan 4 Retro SE 'Black Canvas'"
+  },
+  {
+    "id": "060",
+    "model": "Off-White x Wmns Air Jordan 4 Retro SP 'Sail'"
+  },
+  {
+    "id": "061",
+    "model": "Air Jordan 4 Retro 'Toro Bravo' 2026"
+  },
+  {
+    "id": "062",
+    "model": "Air Jordan 4 Retro 'University Blue'"
+  },
+  {
+    "id": "063",
+    "model": "Air Jordan 4 Retro 'Military Black'"
+  },
+  {
+    "id": "064",
+    "model": "Air Jordan 4 Retro 'Lightning' 2021"
+  },
+  {
+    "id": "065",
+    "model": "Air Jordan 4 Retro 'Red Cement'"
+  },
+  {
+    "id": "066",
+    "model": "Air Jordan 4 Retro 'Midnight Navy'"
+  },
+  {
+    "id": "067",
+    "model": "Air Jordan 4 Retro '25th Silver Anniversary'"
+  },
+  {
+    "id": "068",
+    "model": "A Ma Maniére x Air Jordan 4 Retro 'Violet Ore'"
+  },
+  {
+    "id": "069",
+    "model": "Air Jordan 4 Retro 'White Oreo'"
+  },
+  {
+    "id": "070",
+    "model": "Air Jordan 4 Retro 'Taupe Haze'"
+  },
+  {
+    "id": "071",
+    "model": "Air Jordan 4 Retro OG GS 'White Cement' 2025"
+  },
+  {
+    "id": "072",
+    "model": "New Balance 2002R 'Protection Pack - Rain Cloud'"
+  },
+  {
+    "id": "073",
+    "model": "New Balance 2002R 'Protection Pack - Phantom'"
+  },
+  {
+    "id": "074",
+    "model": "New Balance 9060 'Black Cat'"
+  },
+  {
+    "id": "075",
+    "model": "New Balance 1906R 'Silver Metallic Black'"
+  },
+  {
+    "id": "076",
+    "model": "New Balance 740v2 'Black Silver Metallic'"
+  },
+  {
+    "id": "077",
+    "model": "New Balance 9060 'Suede Pack - Sea Salt'"
+  },
+  {
+    "id": "078",
+    "model": "New Balance 1906R 'Silver Metallic Cream'"
+  },
+  {
+    "id": "079",
+    "model": "New Balance 1906A 'Black'"
+  },
+  {
+    "id": "080",
+    "model": "New Balance 850 'Grey'"
+  },
+  {
+    "id": "081",
+    "model": "New Balance 9060 'Triple Black Suede'"
+  },
+  {
+    "id": "082",
+    "model": "New Balance 530 'White Natural Indigo'"
+  },
+  {
+    "id": "083",
+    "model": "New Balance 1906R 'Metallic Silver Metallic Gold'"
+  },
+  {
+    "id": "084",
+    "model": "New Balance 2002R 'Protection Pack - Sea Salt'"
+  },
+  {
+    "id": "085",
+    "model": "New Balance 1906R 'Pink Taffy'"
+  },
+  {
+    "id": "086",
+    "model": "New Balance 9060 'Black Castlerock'"
+  },
+  {
+    "id": "087",
+    "model": "New Balance 1000 'Black Cat'"
+  },
+  {
+    "id": "088",
+    "model": "New Balance 9060 'Arctic Grey'"
+  },
+  {
+    "id": "089",
+    "model": "New Balance 1906R 'Silver Metallic Deep Ocean'"
+  },
+  {
+    "id": "090",
+    "model": "New Balance BAPE x 2002R 'Apes Together Strong - Black Camo'"
+  },
+  {
+    "id": "091",
+    "model": "New Balance 2002R 'Black Cat'"
+  },
+  {
+    "id": "092",
+    "model": "New Balance 1906L 'Silver Shadow Grey'"
+  },
+  {
+    "id": "093",
+    "model": "New Balance 1906D 'Protection Pack - Triple Black'"
+  },
+  {
+    "id": "094",
+    "model": "New Balance 1000 'Mallard Green Sea Salt'"
+  },
+  {
+    "id": "095",
+    "model": "New Balance 550 'White Timberwolf'"
+  },
+  {
+    "id": "096",
+    "model": "New Balance 2002R 'Protection Pack - Lunar New Year'"
+  },
+  {
+    "id": "097",
+    "model": "New Balance 2002R 'Black Gunmetal'"
+  },
+  {
+    "id": "098",
+    "model": "New Balance 530 'Raincloud'"
+  },
+  {
+    "id": "099",
+    "model": "New Balance 1906A 'Black Dragon Berry'"
+  },
+  {
+    "id": "100",
+    "model": "New Balance 2002R 'Protection Pack - Eclipse'"
+  },
+  {
+    "id": "101",
+    "model": "New Balance 1906A 'Silver Gold Metallic'"
+  },
+  {
+    "id": "102",
+    "model": "New Balance 1906D 'Protection Pack - White Turtledove'"
+  },
+  {
+    "id": "103",
+    "model": "New Balance 2002R 'Protection Pack - Brown' size? Exclusive"
+  },
+  {
+    "id": "104",
+    "model": "New Balance 9060 'Quartz Grey'"
+  },
+  {
+    "id": "105",
+    "model": "New Balance 1906R 'Black Silver'"
+  },
+  {
+    "id": "106",
+    "model": "New Balance 740v2 'White Navy Shadow Grey'"
+  },
+  {
+    "id": "107",
+    "model": "New Balance 9060 'Pink Overdye' ASOS Exclusive"
+  },
+  {
+    "id": "108",
+    "model": "New Balance 990v4 Made in USA 'Grey Silver'"
+  },
+  {
+    "id": "109",
+    "model": "New Balance 990v6 Made in USA 'Castlerock'"
+  },
+  {
+    "id": "110",
+    "model": "New Balance 990v3 Made in USA 'Grey'"
+  },
+  {
+    "id": "111",
+    "model": "Teddy Santis x New Balance 990v4 Made in USA 'Arctic Grey Black'"
+  },
+  {
+    "id": "112",
+    "model": "New Balance 990v3 Made In USA 'Black'"
+  },
+  {
+    "id": "113",
+    "model": "Bodega x New Balance 990v3 Made In USA 'Anniversary'"
+  },
+  {
+    "id": "114",
+    "model": "Action Bronson x New Balance 990v6 Made in USA 'Amazõnia'"
+  },
+  {
+    "id": "115",
+    "model": "Action Bronson x New Balance 990v6 Made in USA 'Lapis Lazuli'"
+  },
+  {
+    "id": "116",
+    "model": "New Balance 990v4 Made In USA 'Red Label - Grey'"
+  },
+  {
+    "id": "117",
+    "model": "New Balance 990v4 Made in USA 'Black Silver' 2023"
+  },
+  {
+    "id": "118",
+    "model": "Action Bronson x New Balance 990v6 Made in USA 'Untitled'"
+  },
+  {
+    "id": "119",
+    "model": "New Balance Teddy Santis x 990v4 Made in USA 'Grey Black'"
+  },
+  {
+    "id": "120",
+    "model": "Teddy Santis x New Balance 990v3 Made in USA 'Tan Orange'"
+  },
+  {
+    "id": "121",
+    "model": "Teddy Santis x New Balance 990v4 Made in USA 'Plum Purple'"
+  },
+  {
+    "id": "122",
+    "model": "New Balance 990v6 Made in USA 'Workwear'"
+  },
+  {
+    "id": "123",
+    "model": "Teddy Santis x New Balance 990v3 Made in USA 'Green Gold'"
+  },
+  {
+    "id": "124",
+    "model": "Teddy Santis x New Balance 990v6 Made in USA 'Reflection Marblehead'"
+  },
+  {
+    "id": "125",
+    "model": "Action Bronson x New Balance 990v6 Made in USA 'Baklava'"
+  },
+  {
+    "id": "126",
+    "model": "Teddy Santis x New Balance 990v6 Made in USA 'Paris'"
+  },
+  {
+    "id": "127",
+    "model": "Teddy Santis x New Balance 990v6 Made in USA 'Community Pack - Red'"
+  },
+  {
+    "id": "128",
+    "model": "JJJJound x New Balance 990v3 Made in USA 'Olive'"
+  },
+  {
+    "id": "129",
+    "model": "New Balance 990v6 Made in USA 'Triple Black'"
+  },
+  {
+    "id": "130",
+    "model": "JJJJound x New Balance 990v3 Made in USA 'Brown'"
+  },
+  {
+    "id": "131",
+    "model": "New Balance 990v6 Made in USA 'Salmon'"
+  },
+  {
+    "id": "132",
+    "model": "New Balance 990v3 Made In USA 'Navy'"
+  },
+  {
+    "id": "133",
+    "model": "Teddy Santis x New Balance 990v6 Made in USA 'Light Mushroom Moonrock'"
+  },
+  {
+    "id": "134",
+    "model": "Teddy Santis x New Balance 990v6 Made in USA 'Community Pack - Navy'"
+  },
+  {
+    "id": "135",
+    "model": "Teddy Santis x New Balance 990v3 Made in USA 'Raw Amethyst'"
+  },
+  {
+    "id": "136",
+    "model": "Teddy Santis x New Balance 990v3 Made in USA 'Green Purple'"
+  },
+  {
+    "id": "137",
+    "model": "New Balance Teddy Santis x 990v3 Made in USA 'Scarlet Marblehead'"
+  },
+  {
+    "id": "138",
+    "model": "New Balance 990v5 Made in USA 'Castlerock'"
+  },
+  {
+    "id": "139",
+    "model": "Teddy Santis x New Balance 990v3 Made in USA 'Black Tan'"
+  },
+  {
+    "id": "140",
+    "model": "Kith x New Balance 990v3 Made in USA 'Steel Blue'"
+  },
+  {
+    "id": "141",
+    "model": "New Balance 990v4 Made in USA 'Castlerock'"
+  },
+  {
+    "id": "142",
+    "model": "New Balance Aimé Leon Dore x 990v4 Made in USA 'True Camo'"
+  },
+  {
+    "id": "143",
+    "model": "Teddy Santis x New Balance 990v6 Made in USA 'Community Pack - Mint'"
+  }
+]
