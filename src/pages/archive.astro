@@ -1,7 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { products } from '../data/products';
-import { objectData } from '../data/objectData';
+import ArchiveEntryDetails from '../components/ArchiveEntryDetails.tsx';
 import Cart from '../components/Cart.tsx';
 import ArchiveCartControls from '../components/ArchiveCartControls.tsx';
 ---
@@ -59,41 +59,7 @@ import ArchiveCartControls from '../components/ArchiveCartControls.tsx';
               </div>
             </div>
 
-            {objectData[p.id] && (
-              <div class="mt-8 space-y-6 pt-6 border-t border-[var(--ink-faded)]">
-                {objectData[p.id].lore && (
-                  <div>
-                    <div class="mb-2 text-[var(--ink-primary)]">LORE</div>
-                    <p class="text-sm opacity-80 leading-relaxed">{objectData[p.id].lore}</p>
-                  </div>
-                )}
-                {objectData[p.id].culturalTags && objectData[p.id].culturalTags.length > 0 && (
-                  <div>
-                    <div class="mb-2 text-[var(--ink-primary)]">CULTURAL RECORD</div>
-                    <div class="flex flex-wrap gap-2">
-                      {objectData[p.id].culturalTags.map(tag => (
-                        <span class="text-xs border border-[var(--ink-faded)] px-2 py-1">{tag}</span>
-                      ))}
-                    </div>
-                  </div>
-                )}
-                {objectData[p.id].relatedObjects && objectData[p.id].relatedObjects.length > 0 && (
-                  <div>
-                    <div class="mb-2 text-[var(--ink-primary)]">RELATIONSHIPS</div>
-                    <div class="flex flex-wrap gap-2">
-                      {objectData[p.id].relatedObjects.map(relId => {
-                         const relProduct = products.find(prod => prod.id === relId);
-                         return relProduct ? (
-                           <a href={`/?highlight=${relId}`} class="text-xs hover:bg-[var(--ink-primary)] hover:text-[var(--paper-base)] border border-[var(--ink-primary)] px-2 py-1 transition-colors">
-                             {relProduct.name}
-                           </a>
-                         ) : null;
-                      })}
-                    </div>
-                  </div>
-                )}
-              </div>
-            )}
+            <ArchiveEntryDetails product={p} client:load />
 
             <div class="mt-8">
               <div class="mb-2">

@@ -58,7 +58,7 @@ src/
 3. **Styling & Aesthetics**: 
    - Uses Tailwind CSS alongside CSS variables (`var(--ink-primary)`, `var(--paper-base)`) for a specific "receipt" / "paper" / monospaced aesthetic. 
    - Components often use `framer-motion` for smooth, dynamic animations (like the `<PrintEffect />` when adding to cart).
-4. **Data Handling**: The app currently uses a static data file (`src/data/products.ts`) containing heavily detailed product definitions (e.g., Nike Dunk Lows) including attributes like colorHex, materials, 3D position/rotation, and sizes. This is supplemented by `src/data/objectData.ts` which provides rich archival data (lore, cultural records, and relationships) for specific featured objects.
+4. **Data Handling**: The app currently uses a static data file (`src/data/products.ts`) containing heavily detailed product definitions (e.g., Nike Dunk Lows) including attributes like colorHex, materials, 3D position/rotation, and sizes. This is supplemented by `src/data/archiveData.ts` which provides rich archival data (lore, cultural records, and relationships) for specific featured objects.
 5. **Typescript**: The project is strictly typed. Pay attention to types exported in the `store` and `data` directories (e.g. `Product`, `CartItem`).
 
 ## 💡 Notes for the AI
